@@ -1,0 +1,12 @@
+[
+  {
+    "key": "ABCD-1234",
+    "website": "https://cliente1.com",
+    "expiration": "2025-12-31"
+  },
+  {
+    "key": "EFGH-5678",
+    "website": "https://cliente2.com",
+    "expiration": "2025-06-30"
+  }
+]
