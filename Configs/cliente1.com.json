@@ -1,5 +1,5 @@
 {
-  "cliente": "cliente1.com",
+  "cliente": "localhost",
   "updateUrl": "http://192.168.0.102:8080/masterlauncher2/masterupdate/",
-  "licenciaUrl": "https://raw.githubusercontent.com/tuuser/repositorio/main/Licencias/cliente1.com.lic"
+  "licenciaUrl": "https://raw.githubusercontent.com/tuuser/repositorio/main/Licencias/localhost.lic"
 }
