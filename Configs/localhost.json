@@ -4,3 +4,12 @@
 "licenciaUrl": "https://raw.githubusercontent.com/EzeMaxySosa/mslauncher-hosting/main/Licencias/localhost.lic"
 }
 
+{
+  "cliente4": "localhost",
+  "updateUrl": "http://192.168.0.102:8080/masterlauncher2/masterupdate/",
+"licenciaUrl": "https://raw.githubusercontent.com/EzeMaxySosa/mslauncher-hosting/main/Licencias/localhost
+  .lic"
+}
+
+
+
