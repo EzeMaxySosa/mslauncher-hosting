@@ -1,5 +1,5 @@
 {
-  "cliente": "cliente1.com",
+  "cliente": "localhost",
   "estado": "activo",
   "expira": "2025-12-31",
   "dominioPermitido": "192.168.0.102:8080"
